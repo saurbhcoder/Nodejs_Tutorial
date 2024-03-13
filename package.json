@@ -5,7 +5,7 @@
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon test.js"
+    "start": "nodemon curdNodeJsMongoDb.js"
   },
   "author": "",
   "license": "ISC",
@@ -14,6 +14,7 @@
     "colors": "^1.4.0",
     "ejs": "^3.1.9",
     "express": "^4.18.3",
+    "mongodb": "^6.5.0",
     "nodemon": "^3.1.0"
   }
 }
