@@ -5,7 +5,7 @@
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon curdAPI_NODEJS_Mongoose.js"
+    "start": "nodemon Search_API_with_multiple_filed.js"
   },
   "author": "",
   "license": "ISC",
